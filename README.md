@@ -1,11 +1,18 @@
 # `2Gore electrifier`
 _`Game Development Area`_
 
-- Where are you from?
-- Where you wanted to go?
-- Why are you here?
+## FAQ
 
-- Check the Demo
+### Where are you from?
+Input Error.
+
+## Where you wanted to go?
+Null.
+
+## Why are you here?
+That's we talk about. Tell me?
+### Origin: Unknown in Time or Space
+## Download the Demo now!
 
 # 📦 2.5D Demo – Public Domain Compliance Checklist
 
