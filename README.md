@@ -1,7 +1,17 @@
 # `2Gore electrifier`
 _`Game Development Area`_
 
-## FAQ
+## Purpose of this test-project
+A tiny 2.5D prototype exploring mood, abstraction, and redistributable workflows — built with zero dependencies 
+and full creative autonomy.
+
+This prototype is part of my exploration into small, self-contained game worlds — experiments that can grow,
+mutate, or stay beautifully minimal.
+
+## Goals
+This repository is part of my RAW FURY application — a snapshot of my workflow, philosophy, and development style.
+
+# FAQ
 
 ### Where are you from?
 Input Error.
